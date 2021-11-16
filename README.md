@@ -23,7 +23,8 @@ Requires Java 1.8 (https://docs.oracle.com/javase/8/docs/technotes/guides/instal
 3. please make sure you have an xml file ready to be uploaded
 
 
-#* ALGORITHM INFO
+# ALGORITHM INFO
+
 individual - a TT solution
 fitness - the grade of a solution (range of 0 – 100)
 population - a group of solutions
